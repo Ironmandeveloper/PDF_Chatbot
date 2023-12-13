@@ -15,7 +15,7 @@ qa_memory = []
 label_visibility='collapse'
 load_dotenv()
 # Access the environment variables
-openai_api_key ="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"
+openai_api_key =
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_ENV = "gcp-starter"
 
