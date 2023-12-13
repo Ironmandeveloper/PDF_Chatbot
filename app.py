@@ -15,7 +15,7 @@ qa_memory = []
 label_visibility='collapse'
 load_dotenv()
 # Access the environment variables
-openai_api_key =
+openai_api_key =os.getenv("OPEN_API_KEY")
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_ENV = "gcp-starter"
 
@@ -28,10 +28,7 @@ st.set_page_config(
 )
 
 # Initialize Pinecone
-pinecone.init(      
-    api_key='e506bb5e-6bed-4797-8108-bc082d4818fa',      
-    environment='gcp-starter'      
-)
+
 
 # Create Pinecone index
 index = pinecone.Index('pdfbot')
