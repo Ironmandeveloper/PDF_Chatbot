@@ -35,8 +35,8 @@ Before running the application, ensure you have the following dependencies insta
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/pdf-bot.git
-cd pdf-bot
+git clone https://github.com/Ironmandeveloper/PDF_Chatbot.git
+cd PDF_Chatbot
 ```
 2. Install the dependencies
 ```bash
@@ -65,7 +65,7 @@ Check out the live version of the app deployed on [Streamlit Cloud at [https://P
 
 ### Screenshots
 #### Screenshot1: Document Upload
-![Screenshot from 2023-12-13 11-06-39](https://github.com/Johnny463/Streammlit/assets/70976999/f8b97c3f-f336-417b-a7fe-72c1aa0c0473)
+![Screenshot from 2023-12-13 11-06-39](https://github.com/Ironmandeveloper/PDF_Chatbot/assets/132562232/bd081b11-75db-42b3-a62a-b23575448352)
 - **Overview:**
   - This page allows users to upload PDF documents to the PDF Bot application.
 
@@ -82,7 +82,8 @@ Check out the live version of the app deployed on [Streamlit Cloud at [https://P
   - A brief description may be provided on supported file formats, e.g., "Tip: Supported file formats include PDF."
 
 #### Screenshot2: Question-Answering
-![Screenshot from 2023-12-13 11-06-49](https://github.com/Johnny463/Streammlit/assets/70976999/aaf81f02-42d7-496e-abb3-67d233210d2f)
+![Screenshot from 2023-12-13 11-06-49](https://github.com/Ironmandeveloper/PDF_Chatbot/assets/132562232/74537902-3ba5-4752-a2d8-ca53622fd36f)
+
 
 - **Overview:**
 
@@ -97,7 +98,8 @@ Check out the live version of the app deployed on [Streamlit Cloud at [https://P
   - Users can type questions into the input field and click the "Ask" button to receive answers.
   - Relevant icons may be used to represent the user and bot interactions.
 #### Screenshot3: Indexing and Vector Operations
-![Screenshot from 2023-12-13 11-06-55](https://github.com/Johnny463/Streammlit/assets/70976999/87a1d418-eaf7-4e82-9255-7b26eb6a6013)
+![Screenshot from 2023-12-13 11-06-55](https://github.com/Ironmandeveloper/PDF_Chatbot/assets/132562232/12f4d535-bfc0-4a07-8329-1e2e26cd2ab5)
+
 - **Overview:**
 
   - This page provides functionality related to indexing and vector operations.
